@@ -15,6 +15,7 @@ Duration:05-12-2024 to 05-01-2025,
 Step 1:First select a project in the list.
 
 Step 2:After selecting the project,you have to fill the form in the google form whatever you will select the projects you have to submit in it.
+
 Step 3:After fill the form you have to download the dataset whatever mention in the project.
 
 Step 4:First Download a Visualization tool like(Power BI or Tableau).
@@ -28,6 +29,7 @@ Step 7:#Product Performance Dashboard,
        1)Create a bar chart for number of products sold for each product type then give the 
 
         name as 'Product Sales'.
+        
        2) Create a line chart showing Revenue generated over time. Filter by Product Type to
        
           see how different products are performing.Give the name as 'Revenue Analysis'.
@@ -47,6 +49,7 @@ Step 8:#Supply Chain Efficiency Dashboard,
           quantities across different Supplier names.Give the name as 'Lead Times vs.Order
           
           Quantities'.
+          
        2) Create a bar chart showing Shipping costs per Shipping carrier. Filter by Location to
        
           see regional differences.Give the name as 'Shipping Costs by Carrier'.
